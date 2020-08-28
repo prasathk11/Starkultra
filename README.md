@@ -1,7 +1,7 @@
-### Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.
-And I am very curious and passionated to learn new technology skills and program them. Work hard to bring super intelligence in AI
-
+## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.
+### And I am very curious and passionated to learn new technology skills and program them. Right Now engaged with projects and reserch papers.
+### Working hard to bring super intelligence in AI 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -16,7 +16,7 @@ And I am very curious and passionated to learn new technology skills and program
 - ⚡ Fun fact: Love to Read Books and play outdoor games(Football)...
 
 **Connect With me on :** 
-<br/>
+<br>
 <a href="https://twitter.com/PRASATH03254966">
   <img align="left" alt="Prasath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -25,6 +25,9 @@ And I am very curious and passionated to learn new technology skills and program
 </a>
 <a href="https://www.reddit.com/user/Ultra_Stark">
   <img align="left" alt="Prasath's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.quora.com/profile/Prasath-Kathiresan">
+  <img align="left" alt="Prasath's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
 
 <br />
