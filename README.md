@@ -1,5 +1,5 @@
 ## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and program them. Right Now engaged with projects and reserch papers.Working hard to bring super intelligence in AI 
+### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and program them. Looking forward to gaining some Real-World Practical Exposure in ML/DL/NLP and Also reading research papers for quench my thirst in AI. Working hard to bring super intelligence in AI 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate with passionate programmers...
 - 🤔 I’m looking for help with Computer vision...
 - 💬 Ask me about Machine Learning, Deep Learning and Natural Language Processing ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: LinkedIN : https://www.linkedin.com/in/prasath-kathiresan-60138516a/  
+                       Gmail : prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Love to Read Books and play outdoor games(Football)...
 
@@ -39,5 +40,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
