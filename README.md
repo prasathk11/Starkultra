@@ -1,7 +1,10 @@
 ### Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I am currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.
+And I am very curious and passionated to learn new technology skills and program them. Work hard to bring super intelligence in AI
 
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - 🔭 I’m currently working on Backend Development ...
 - 🌱 I’m currently learning  Backend Development...
@@ -13,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love to Read Books and play outdoor games(Football)...
 
 **Connect With me on :** 
+<br/>
 <a href="https://twitter.com/PRASATH03254966">
   <img align="left" alt="Prasath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,8 +26,6 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/Ultra_Stark">
   <img align="left" alt="Prasath's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
