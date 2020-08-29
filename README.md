@@ -1,8 +1,13 @@
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Starkultra/count.svg" alt="vistor count" height="50" /></td>
+  </tr>
+</table>
 ## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and program them. Looking forward to gaining Real-World Practical Exposure in ML/DL/NLP and Also reading research papers for quench my thirst in AI. Working hard to bring super intelligence in AI 
+### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and program them. Looking forward to gain Real-World Practical Exposure in ML/DL/NLP and Also reading research papers for quench my thirst in AI. Working hard to bring super intelligence in AI 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 - 🔭 I’m currently working on Backend Development ...
 - 🌱 I’m currently learning  Backend Development...
@@ -43,3 +48,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=radical)](https://github.com/Starkultra/github-readme-stats)
