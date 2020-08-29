@@ -1,11 +1,11 @@
+## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and program them. Looking forward to gain Real-World Practical Exposure in ML/DL/NLP and Also reading research papers for quench my thirst in AI. Working hard to bring super intelligence in AI 
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/Starkultra/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Currently doing my batchelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and program them. Looking forward to gain Real-World Practical Exposure in ML/DL/NLP and Also reading research papers for quench my thirst in AI. Working hard to bring super intelligence in AI 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
