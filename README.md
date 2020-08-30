@@ -1,5 +1,5 @@
 ## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Currently doing my bachelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and to program them. Looking forward to gain Real-World Practical Exposure in ML/DL/NLP and Also reading/working on research papers for quench my thirst in AI. Working hard to bring super intelligence in AI 
+### Currently doing my bachelor's in Computer Science Engineering with specialization in Artificial intelligence and Machine Learning.And I am very curious and passionated to learn new technology skills and to program them. Looking forward to gain Real-World Practical Exposure in ML/DL/NLP and Also reading/working on research papers to quench my thirst in AI. Working hard to bring super intelligence in AI 
 <table>
   <tr>
     <td>You are visitor</td>
