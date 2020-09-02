@@ -33,6 +33,9 @@
 <a href="https://www.quora.com/profile/Prasath-Kathiresan">
   <img align="left" alt="Prasath's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
+<a href="https://www.kaggle.com/prasathkathiresan">
+  <img align="left" alt="Prasath's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 
 <br />
 
@@ -50,4 +53,4 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=radical)](https://github.com/Starkultra/github-readme-stats)
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=tokyonight)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=tokyonight)](https://github.com/Starkultra/github-readme-stats)
