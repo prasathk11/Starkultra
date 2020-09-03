@@ -51,6 +51,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=tokyonight)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=tokyonight)](https://github.com/Starkultra/github-readme-stats)
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=tokyonight)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=tokyonight)](https://github.com/Starkultra/github-readme-stats)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
