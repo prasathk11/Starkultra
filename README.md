@@ -40,18 +40,21 @@
 <br />
 
 **Languages and Tools:**  
+<a>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>
+  </a>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
-
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=tokyonight)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=tokyonight)](https://github.com/Starkultra/github-readme-stats)
+![Prasath's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=tokyonight)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=tokyonight)](https://github.com/Starkultra/github-readme-stats)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
