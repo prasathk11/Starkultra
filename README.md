@@ -6,8 +6,7 @@
     <td><img src="https://profile-counter.glitch.me/Starkultra/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppvalluri09" alt="ppvalluri09" /> </p>
 
 - 🔭 I’m currently working on  ML/DL Projects...
 - 🌱 I’m currently learning  Higher Level Mathematics...
