@@ -1,5 +1,5 @@
 ## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Yeah!! I am a Student with Passion about new technologies and currently improving my skills. Always open for tech talks and Collaboration in AI, Web development and other tech projects....
+### I am a Student with Passionate new technologies and currently improving my skills. Always open for tech talks and Collaboration in AI, Web development and other tech projects....
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Starkultra" alt="prasath" /> </p>
 
