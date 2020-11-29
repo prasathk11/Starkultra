@@ -1,6 +1,5 @@
 ## Hi there, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Student with Passionate about new technologies and AI. Always open for tech talks and Collaboration in AI, Web development and other tech projects....
-
+<p align="center"><img width=100% src="https://github.com/Starkutra/Starkultra/blob/master/assets/Profile_Intro.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Starkultra" alt="prasath" /> </p>
 
 - 🔭 Currently working on  ML/DL/NLP Projects...
