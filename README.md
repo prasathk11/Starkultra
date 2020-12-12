@@ -1,7 +1,10 @@
-<img align = "right" width=10% src="https://github.com/Starkultra/Starkultra/blob/master/Source/giphy.gif">
-<h3 align="center"> Hola, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center"> Hola, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align = "right" width=10% src="https://github.com/Starkultra/Starkultra/blob/master/Source/giphy.gif"></h3>
 <h3 align="center">AI Researcher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Starkultra" alt="prasath" /> </p>
+
+
+
+<img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/main.gif">
 
 - 🔭 Currently working on  ML/DL/NLP Projects...
 - 🌱 Currently learning  Mern/React js...
@@ -11,6 +14,7 @@
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:....
+
 **Connect With me on :** 
 <br>
 <a href="https://twitter.com/PRASATH03254966">
@@ -31,6 +35,7 @@
 
 <br />
 
+<br></br>
 **Languages and Tools:**  
 <a>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
