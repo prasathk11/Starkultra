@@ -1,4 +1,5 @@
-<h3 align="center"> Hola, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align = "right" width=10% src="https://github.com/Starkultra/Starkultra/blob/master/Source/giphy.gif"></h3>
+<img algin = "right" width=10% src="https://github.com/Starkultra/Starkultra/blob/master/Source/giphy.gif">
+<h3 align="center"> Hola, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 <h3 align="center">AI Researcher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Starkultra" alt="prasath" /> </p>
 
@@ -14,7 +15,7 @@
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:....
-
+<br></br>
 **Connect With me on :** 
 <br>
 <a href="https://twitter.com/PRASATH03254966">
