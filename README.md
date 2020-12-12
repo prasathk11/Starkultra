@@ -14,7 +14,8 @@
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:....
-<br></br>
+
+
 **Connect With me on :** 
 <br>
 <a href="https://twitter.com/PRASATH03254966">
@@ -32,10 +33,9 @@
 <a href="https://www.kaggle.com/prasathkathiresan">
   <img align="left" alt="Prasath's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
+</br>
 
-<br />
 
-<br></br>
 **Languages and Tools:**  
 <a>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
