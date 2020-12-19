@@ -30,9 +30,6 @@
 <a href="https://www.quora.com/profile/Prasath-Kathiresan">
   <img align="left" alt="Prasath's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
-<a href="https://www.kaggle.com/prasathkathiresan">
-  <img align="left" alt="Prasath's kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
 </br>
 
 
