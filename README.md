@@ -7,14 +7,15 @@
 <img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
-- 🔭 Currently working on  ML/DL/NLP Projects...
-- 🌱 Currently learning  Mern/React js...
-- 👯 Looking to collaborate with Artificial Intelligence Researchers..
-- 🤔 Looking for help with Computer vision...
+- 🔭 Currently working on  ML/DL/NLP Projects
+- 🌱 Currently learning  Mern/React js
+- 👯 Looking to collaborate with AI Researchers
+- 🤔 Looking for help with Computer vision
 - 💻 Languages : Python,C,C++,Javascript,PHP
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
-- ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:....
+- ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:
+
 
 **Connect With me on :** 
 <br>
