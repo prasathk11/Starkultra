@@ -4,7 +4,7 @@
 
 
 
-<img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/main.gif">
+<img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
 
