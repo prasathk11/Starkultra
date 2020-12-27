@@ -7,8 +7,8 @@
 <img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
-- 🔭 Currently working on  ML/DL/NLP Projects
-- 🌱 Currently learning  Conversational AI
+- 🔭 Currently working on  Conversational AI
+- 🌱 Currently learning  Computer Vision
 - 👯 Looking to collaborate with AI Researchers
 - 🤔 Looking for help with Computer vision
 - 💻 Languages : Python,C,C++,Javascript,PHP
