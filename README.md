@@ -8,7 +8,7 @@
 
 
 - 🔭 Currently working on  ML/DL/NLP Projects
-- 🌱 Currently learning  Mern/React js
+- 🌱 Currently learning  Conversational AI
 - 👯 Looking to collaborate with AI Researchers
 - 🤔 Looking for help with Computer vision
 - 💻 Languages : Python,C,C++,Javascript,PHP
