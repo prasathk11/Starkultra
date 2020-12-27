@@ -25,9 +25,6 @@
 <a href="https://www.linkedin.com/in/prasath-kathiresan-60138516a/">
   <img align="left" alt="Prasath's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a>
-  <img align="left" alt="Prasath's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
  <a href="https://www.instagram.com/techy_prasath/">
   <img align="left" alt="Prasath's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
