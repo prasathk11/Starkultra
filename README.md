@@ -11,7 +11,7 @@
 - 🌱 Currently learning  Computer Vision
 - 👯 Looking to collaborate with AI Researchers
 - 🤔 Looking for help with Computer vision
-- 💻 Languages : Python,C,C++,Javascript,PHP
+- 💻 Languages : Python,C,C++,Javascript,PHP,kotlin
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:
