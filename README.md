@@ -7,11 +7,11 @@
 <img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
-- 🔭 Currently working on  Conversational AI
-- 🌱 Currently learning  Computer Vision
-- 👯 Looking to collaborate with AI Researchers
-- 🤔 Looking for help with Computer vision
-- 💻 Languages : Python,C,C++,Javascript,PHP,kotlin
+- 🔭 Currently working on  **Conversational AI**
+- 🌱 Currently learning  **Computer Vision**
+- 👯 Looking to collaborate with **AI Researchers**
+- 🤔 Looking for help with **Computer vision**
+- 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:
@@ -20,13 +20,16 @@
 **Connect With me on :** 
 <br>
 <a href="https://twitter.com/PRASATH03254966">
-  <img align="left" alt="Prasath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Prasath | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prasath-kathiresan-60138516a/">
-  <img align="left" alt="Prasath's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Prasath's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
  <a href="https://www.instagram.com/techy_prasath/">
-  <img align="left" alt="Prasath's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Prasath's instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://dev.to/starkultra">
+  <img align="left" alt="Prasath's dev community" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
   </a>
 </br>
 
