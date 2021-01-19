@@ -1,5 +1,5 @@
 <h3 align="center"> Hola, I'm Prasath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align = "right" width=10% src="https://github.com/Starkultra/Starkultra/blob/master/Source/giphy.gif"> </h3>
-<h3 align="center">AI Researcher</h3>
+<h3 align="center">AI Developer/Researcher</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Starkultra" alt="prasath" /> </p>
 
 
