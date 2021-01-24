@@ -7,7 +7,7 @@
 <img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
-- 🔭 Currently working on  **Conversational AI / Computer Vision**
+- 🔭 Currently working on  ** ML/DL/Computer Vision**
 - 🌱 Currently learning  **Wavenet,Deepvoice1,Deepvoice2**
 - 👯 Looking to collaborate with **AI Researchers**
 - 🤔 Looking for help with **Computer vision**
