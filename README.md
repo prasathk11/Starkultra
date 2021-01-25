@@ -8,7 +8,7 @@
 
 
 - 🔭 Currently working on  **ML/DL/Computer Vision**
-- 🌱 Currently learning  **Wavenet,Deepvoice1,Deepvoice2**
+- 🌱 Currently learning  **Generative Models**
 - 👯 Looking to collaborate with **AI Researchers**
 - 🤔 Looking for help with **Computer vision**
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
