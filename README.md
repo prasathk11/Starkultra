@@ -19,13 +19,13 @@
 
 **Connect With me on :** 
 <br>
-<a href="https://twitter.com/PRASATH03254966">
+<a href="https://twitter.com/Starkultra11">
   <img align="left" alt="Prasath | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/prasath-kathiresan-60138516a/">
+<a href="https://www.linkedin.com/in/prasath-k-60138516a/">
   <img align="left" alt="Prasath's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
- <a href="https://www.instagram.com/techy_prasath/">
+ <a href="https://www.instagram.com/dev_prasath/">
   <img align="left" alt="Prasath's instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://dev.to/starkultra">
