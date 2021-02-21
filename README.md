@@ -14,7 +14,7 @@
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
-- ⚡ Fun fact: Yeah I'm an Engineer:thinking::sweat_smile:
+- ⚡ Fun fact: Playing with Neural Networks:thinking::sweat_smile:
 
 
 **Connect With me on :** 
