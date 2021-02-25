@@ -8,7 +8,7 @@
 
 
 - 🔭 Currently working on  **ML/DL/Computer Vision**
-- 🌱 Currently learning  **Generative Models**
+- 🌱 Currently learning  **Full Stack(MERN)**
 - 👯 Looking to collaborate with **AI Researchers**
 - 🤔 Looking for help with **Computer vision**
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
