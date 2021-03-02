@@ -7,7 +7,7 @@
 <img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
-- 🔭 Currently working on 
+- 🔭 Currently working on **ML/CV/NLP Based projects**
 - 🌱 Currently learning  **Full Stack(MERN)**
 - 👯 Looking to collaborate with **AI Researchers**
 - 🤔 Looking for help with **Computer vision**
