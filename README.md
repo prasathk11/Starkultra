@@ -8,7 +8,7 @@
 
 
 - 🔭 Currently working on **ML/CV/NLP Based projects**
-- 🌱 Currently learning  **Full Stack(MERN)**
+- 🌱 Currently learning  **Reactjs**
 - 👯 Looking to collaborate with **AI Researchers**
 - 🤔 Looking for help with **Computer vision**
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
