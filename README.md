@@ -9,7 +9,7 @@
 
 - 🔭 Currently working on **ML/CV/NLP Based projects**
 - 🌱 Currently learning  **Reactjs**
-- 👯 Looking to collaborate with **AI Researchers**
+- 👯 Looking to collaborate with **Competitive Programmers**
 - 🤔 Looking for help with **Computer vision**
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
