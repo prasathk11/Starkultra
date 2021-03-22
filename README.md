@@ -8,7 +8,7 @@
 
 
 - 🔭 Currently working on **ML/CV/NLP Based projects**
-- 🌱 Currently learning  **Reactjs**
+- 🌱 Currently learning  **DS and Algorithms**
 - 👯 Looking to collaborate with **Competitive Programmers**
 - 🤔 Looking for help with **Computer vision**
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
