@@ -14,7 +14,7 @@
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
-- ⚡ Fun fact: Playing with Neural Networks:thinking::sweat_smile:
+- ⚡ Fun fact: Well Playing with neural networks and passing time by training model:thinking::sweat_smile:
 
 
 **Connect With me on :** 
