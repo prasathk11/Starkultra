@@ -8,7 +8,7 @@
 
 
 - 🌱 Currently learning  **DS and Algorithms**
-- 👯 Looking to collaborate with **Competitive Programmers**
+- 👯 Looking to collaborate with **Hackathons And CP**
 - 🤔 Looking for help with **Computer vision**
 - 💻 Languages : **Python,C,C++,Javascript,PHP,kotlin**
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
