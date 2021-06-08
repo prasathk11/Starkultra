@@ -7,7 +7,6 @@
 <img align = "right" width=40% src="https://github.com/Starkultra/Starkultra/blob/master/Source/code.gif">
 
 
-- 🔭 Currently working on **ML/CV/NLP Based projects**
 - 🌱 Currently learning  **DS and Algorithms**
 - 👯 Looking to collaborate with **Competitive Programmers**
 - 🤔 Looking for help with **Computer vision**
@@ -15,6 +14,7 @@
 - 📫 How to reach me: prasathkathiresan11@gmail.com 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: Well Playing with neural networks and passing time by training model:thinking::sweat_smile:
+- 🔭 Currently working in **Omdena as Machine Learning Engineer**
 
 
 **Connect With me on :** 
