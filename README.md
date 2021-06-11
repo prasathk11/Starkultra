@@ -33,8 +33,12 @@
   </a>
 </br>
 
+![](https://activity-graph.herokuapp.com/graph?username=Starkultra&theme=github)
+![Prasath's github stats](https://github-readme-stats.vercel.app/api?username=sakshi-choudhary&show_icons=true&theme=dark&count_private=true)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=dark&hide_langs_below=4&layout=compact'/>  
+<p align="center"> 
+<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Starkultra&theme=dark" alt="Prasath k" />
+</p>
 
-
-![Prasath's Github Stats](https://github-readme-stats.vercel.app/api?username=Starkultra&show_icons=true&theme=tokyonight)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkultra&theme=tokyonight)](https://github.com/Starkultra/github-readme-stats)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
